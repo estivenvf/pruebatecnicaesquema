@@ -1,0 +1,20 @@
+/* Header */
+html.ie header {
+	background: #fff;
+	filter: none;
+}
+
+html.ie8 div.home-concept,
+html.ie8 div.home-concept div.process-image,
+html.ie8 div.home-concept div.project-image {
+	background: none;
+}
+
+/* Social Icons */
+html.ie8 header ul.social-icons {
+	margin-top: 2px;
+}
+
+html.ie8 header ul.social-icons li {
+	background-color: #F1F1F1;
+}
